@@ -1,4 +1,4 @@
-#CalculusProject
+# CalculusProject
 
 This is the code from my AP Calculus BC project I completed at the end of my senior year. My portion of the project
 was to figure out the algorithm the TI-84 uses to solve definite integrals. 
